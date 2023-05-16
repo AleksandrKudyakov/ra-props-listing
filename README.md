@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ilbqcl8ekmqjpsjg/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-props-listing/branch/main)
